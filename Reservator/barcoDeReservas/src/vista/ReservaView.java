@@ -33,8 +33,8 @@ public class ReservaView {
             );// validar si el usuario cerro la ventana
             if (seleccion == -1) {
                 break;
-            }
-
+            }   
+            
             //Llamamos los metodos 
             switch (seleccion) {
                 case 0:
