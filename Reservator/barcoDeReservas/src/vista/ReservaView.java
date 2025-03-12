@@ -34,7 +34,7 @@ public class ReservaView {
             if (seleccion == -1) {
                 break;
             }   
-            
+
             //Llamamos los metodos 
             switch (seleccion) {
                 case 0:
